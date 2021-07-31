@@ -1,7 +1,7 @@
 # NNNFunction
 This function is made to keep you in the place you left after using NNN, put it in your shell configration file
 
-
+```bash
 n ()
 {
 
@@ -21,4 +21,4 @@ if [ -f "$NNN_TMPFILE" ]; then
 fi 
 
 }
-
+```

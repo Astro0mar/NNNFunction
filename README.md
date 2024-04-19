@@ -1,7 +1,8 @@
 # NNNFunction
 This function is made to keep you in the place you left after using NNN, put it in your shell configration file
 
-```bash
+```bash 
+#triple backquote
 n ()
 {
 
